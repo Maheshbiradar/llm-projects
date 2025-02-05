@@ -4,6 +4,7 @@ load_dotenv()
 from langchain_openai import ChatOpenAI
 from langchain.prompts.prompt import PromptTemplate
 from langchain_core.tools import Tool
+from tools.tools import get_profile_url_tavily
 
 from langchain.agents import (
     create_react_agent,
@@ -27,7 +28,7 @@ def lookup(name: str) -> str:
     tools_for_agent = [
         Tool(
             name="Crawl Google 4 linkedin company profile page",
-            func="?",
+            func=get_profile_url_tavily,
             description="useful for when you need get the Linkedin Page URL",
         )
     ]
@@ -42,3 +43,11 @@ def lookup(name: str) -> str:
 
     linked_profile_url = result["output"]
     return linked_profile_url
+
+def main():
+    name = "NTT Data"  # Example name
+    result = lookup(name)
+    print(result)
+
+if __name__ == "__main__":
+    main()
