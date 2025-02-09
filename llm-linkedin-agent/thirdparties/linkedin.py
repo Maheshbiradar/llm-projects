@@ -6,6 +6,7 @@ load_dotenv()
 
 
 def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = False):
+    print(linkedin_profile_url)
     if mock:
         linkedin_profile_url = "https://gist.githubusercontent.com/Maheshbiradar/c66fb0d7df491263e1cdc3ff85ef1b96/raw/0120d0b772b6412b3c3b838566285243604c3757/gistfile1.json"
         response = requests.get(
@@ -31,9 +32,7 @@ def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = False):
         for k, v in data.items()
         if v not in ([], "", "", None) and k not in ["certifications"]
     }
-    print(data)
     return data
-
 
 if __name__ == "__main__":
     print(

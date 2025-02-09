@@ -13,11 +13,10 @@ from langchain.agents import (
 
 from langchain import hub
 
-
 def lookup(name: str) -> str:
     llm = ChatOpenAI(
         temperature=0,
-        model_name="gpt-4o-mini",
+        model="gpt-4o-mini",
     )
     template = """given the name {name_of_company} I want you to get it me a link to their Linkedin profile page.
                               Your answer should contain only a URL"""
@@ -46,11 +45,5 @@ def lookup(name: str) -> str:
     return linked_profile_url
 
 
-def main():
-    name = "NTT Data"  # Example name
-    result = lookup(name)
-    print(result)
-
-
 if __name__ == "__main__":
-    main()
+    print(lookup(name="NTT Data"))
