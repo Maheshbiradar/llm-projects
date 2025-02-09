@@ -13,6 +13,7 @@ from langchain.agents import (
 
 from langchain import hub
 
+
 def lookup(name: str) -> str:
     llm = ChatOpenAI(
         temperature=0,
