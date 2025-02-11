@@ -1,0 +1,114 @@
+NTT DATA Group Corporation
+Industries
+Services
+Insights
+About Us
+Careers
+Investors
+News
+Select a country
+Global - English
+Search
+Contact Us
+
+ShareNot displayed
+FacebookLinkedInX
+Home
+Insights
+NTT DATA Focus
+The Gen AI Impact: Perspectives from CEOs
+Two global industry leaders share insights on how Generative AI will unleash a new era of enterprise value creation.
+
+Generative AI (Gen AI) is an absolute game changer, redefining the competitive landscape of businesses across industries. For organizations ready to embrace this shift, the challenge is no longer whether to adopt Gen AI but how to scale it effectively to drive enterprise-wide value.
+
+We sat down with Yutaka Sasaki, Representative Director, President and CEO of NTT DATA Group and Abhijit Dubey, President and CEO of NTT DATA, Inc. to explore their vision on how Gen AI can unlock unprecedented opportunities for businesses willing to reimagine what's possible.
+
+How is Gen AI transforming industries globally and what is its impact on society?
+Yutaka Sasaki: I believe Gen AI is a global industry catalyst. For me, its most exciting capability is cognitive process integration. On a recent visit to a self-driving car research lab, I saw how functions-like recognition, memory and decision-making-were managed separately. With Gen AI, we're approaching the point where they can be fully integrated, mimicking human capabilities.
+
+
+"Our mission is to help clients transform their operations with Gen AI, focusing on scalability, precision and human-centered outcomes. We drive higher-value creation with AI agents, full-stack private AI solutions, industry-specific tools and NTT's tsuzumi language model."
+
+- Yutaka Sasaki
+Representative Director, President and CEO,
+NTT DATA Group
+
+Gen AI's societal impact is equally profound. By improving knowledge accessibility, democratizing AI tools and upskilling the workforce, it enables companies to achieve more with fewer resources.
+
+What makes Gen AI such a disruptive technology and how is it driving value?
+Abhijit Dubey: I lived in Silicon Valley for over 20 years and have witnessed many tech revolutions, but nothing compares to the Gen AI revolution. For the first time, we have a technology that not only optimizes processes but also transforms the very nature of work, compelling organizations to rethink traditional business models and explore new avenues for growth.
+
+
+"At NTT DATA, we work with clients to harness the power and insights of Gen AI, helping them reimagine their services and navigate the fast-changing tech landscape. Recently, we announced a partnership with Duke Health to implement a new model for in-home care-integrating advanced analytics, automation and a Gen AI-powered virtual agent to deliver more personalized and effective patient experiences."
+
+- Abhijit Dubey
+President and CEO, NTT DATA, Inc.
+
+What technologies in the Gen AI landscape are you most excited about?
+YS: Large language models (LLMs) dominate headlines, but true business transformation requires tailored solutions. Relying solely on LLMs isn't sufficient. Small language models (SLMs) and lightweight LLMs allow secure training on proprietary data. For example, NTT's tsuzumi1 model is both lightweight and secure, making it ideal for client environments where data security is paramount. It's already being deployed in government research projects, providing high efficiency with robust data protection.
+
+AD: On top of that, Gen AI is now creating advanced systems capable of overseeing entire business operations. We're developing specialized AI agents that work together to solve complex processes-not just tasks-integral to core businesses. We are committed to leading this evolution by co-creating with clients and partners, providing the tools and expertise needed for leaders across industries to fully leverage Gen AI.
+
+How should companies transition from AI experimentation to enterprise-wide scale?
+AD: The key to success is to fully align your AI strategy with your business goals-they must be one and the same. Prioritizing change management is equally important for a smooth organizational transition. Additionally, improving data architecture is essential, as many companies find their data isn't ready for Gen AI. Companies must move swiftly to realize value and avoid getting stuck in experimentation. Finally, invest in security, privacy and ethics; this is one area where shortcuts aren't an option.
+
+In what concrete ways has NTT DATA helped clients use Gen AI to solve specific business challenges?
+YS: A standout example of our success is our collaboration with L'Oréal Chile. We developed an AI-powered agent, Lore, using our conversational AI platform, Eva. Lore offers personalized cosmetics recommendations, referring to purchase history and context like weather and customer destination. This innovation has boosted customer engagement, enhanced workforce productivity and improved e-commerce conversion rates.
+
+AD: Another success story is our partnership with a leading German tier 1 automotive supplier, in which we created an AI-driven platform, AI Shadow, for their R&D division to automate requirements extraction, classification and feature mapping-revolutionizing their processes. The results speak for themselves: The client reported a 50% boost in efficiency and estimated operational savings of $1.08 million (€1 million) in year one.
+
+Sustainability is a growing concern for businesses. What strategies can drive sustainable AI deployments while ensuring ethical and responsible practices?
+YS: Ethical responsibility is central to our innovations. NTT's IOWN2 network serves as a prime example, allowing businesses to scale AI without dramatically increasing energy usage. From photonics to lightweight LLMs that consume less power, we view decarbonization across industries as a key obligation and driver of growth.
+
+AD: Absolutely. We also offer clients a "green IT calculator" that tracks carbon emissions from IT operations, particularly in data centers. On the ethical front, responsible development principles must also be applied internally-which means equipping employees with robust frameworks and guidelines to avoid unintended consequences. NTT DATA's AI Governance Office emphasizes adherence to privacy, fairness and accountability-while advocating for employee tools that feature built-in safeguards.
+
+What does the future of Gen AI look like and what role will NTT DATA play in this?
+AD: We're uniquely positioned to shape the future of Gen AI, offering a powerful combination of consulting, data analytics, app management and physical infrastructure. Most companies focus on traditional products like data centers and network platforms, but we do both. As the world's third-largest data center provider, we host all major public cloud services globally, while also offering full-stack solutions tailored to the unique demands of our clients.
+
+YS: In my opinion, AI agents are the next big thing. We envision a future where we have a constellation of SLMs addressing the energy burdens and computational demands of mega models. Breakthroughs like these would set new standards for operational efficiency, making Gen AI projects more cost-effective for our clients in the future.
+
+Moreover, as NTT Group, we're making strides in AI innovation through bold investments in digital technologies and internal training programs. Within NTT DATA alone, we're providing each of our 200,000 employees with Gen AI literacy training-and this is just the beginning. As we look to the future, we're inspired by the transformative potential of these technologies and our role in their applications, ushering in possibilities that will redefine how we connect and create.
+
+To learn more about how NTT DATA is harnessing Gen AI to transform businesses and industries, click here.
+
+Note:
+"NTT DATA Announces Strategic Enhancement of Collaboration with Launch of tsuzumi on Microsoft Azure," June 2024
+IOWN is a photonics-based network that uses light instead of electricity to transmit data, which is expected to reduce power consumption by a factor of one hundred and lower latency by two hundredfold.
+This article was originally created by Custom Content from WSJ.
+
+Popular Topics
+Data & Intelligence
+Read Next
+Gen AI: Transforming Potential into Performance
+Generative AI: A Transformative Force in Legacy App Modernization
+Navigating the Future of Generative AI: Ethical, Regulatory, and Governance Challenges
+Home
+Insights
+NTT DATA Focus
+The Gen AI Impact: Perspectives from CEOs
+NTT DATA Group Corporation
+Global
+Select a Country
+Industries
+Services
+Insights
+About Us
+Careers
+Investors
+News
+Sitemap
+Contact Us
+Term Of Use
+Privacy Statement
+Privacy Statement for GDPR
+Accessibility
+Cookie Policy
+Cookie Preferences
+Social Media Policy
+Copyright
+NTT DATA Official X
+NTT DATA Official Instagram
+NTT DATA Official LinkedIn
+NTT DATA Official Youtube
+Copyright © NTT DATA Group Corporation
+TOP
